@@ -1,0 +1,15 @@
+.delete{
+    position: absolute;
+    left: 500px;
+    background-color: blue;
+}
+.done{
+    position: absolute;
+    left: 450px;
+    background-color: #90ee90;
+    
+}
+.strike{
+    text-decoration: line-through;
+}
+

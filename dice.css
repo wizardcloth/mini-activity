@@ -1,0 +1,43 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    color:hotpink;
+    font-size: 50px;
+    margin: 20px;
+}
+h3{
+    margin: 40px;
+    text-align: center;
+    color: plum;
+    font-size: 20px;
+}
+.img{
+    padding: 0px;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    margin: 20px;
+    width: 200px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: palegreen;
+    font-size: 20px;
+}
+.transition{
+    transition-duration: 2s;
+}
